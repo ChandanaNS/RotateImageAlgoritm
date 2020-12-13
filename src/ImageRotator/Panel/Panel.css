@@ -1,0 +1,30 @@
+.info {
+  margin: 1em;
+  line-height: 2em;
+}
+
+.file-input {
+  display: none;
+}
+
+form {
+  text-align: center;
+  margin: 34px;
+  text-align: center;
+  display: block;
+}
+
+hr {
+  width: 100%;
+  height: 1px;
+  border-width: 0;
+  background-color: #000;
+  margin: 0;
+}
+
+/* Style for Small devices */
+@media (max-width: 768px) {
+  form {
+    margin: 0;
+  }
+}
